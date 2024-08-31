@@ -8,21 +8,21 @@
 ## 🛠 Skills
 
 - **Languages:**
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)
+  ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg)
 
 - **Technologies/Frameworks:**
-  ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white)
-  ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=flat&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![ReactJS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
+  ![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg)
+  ![NodeJS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg)
+  ![ExpressJS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg)
+  ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg)
 
 - **Developer Tools:**
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
+  ![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg)
+  ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)
 
 - **Soft Skills:** Excellent Communication | Team Player | Critical Thinking | Hardworking | Problem Solving
 
@@ -61,4 +61,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelshetty-26n2000/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelshetty262000@example.com)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeeleshShetty&show_icons=true&theme=radical)
