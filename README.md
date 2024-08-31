@@ -29,13 +29,13 @@
 
 ## 🚀 Some of the major Projects
 
-- **[Food Order Platform](#)**  
-  *(ReactJS, TypeScript, MongoDB, NodeJS, Tailwind CSS, Shadcn)*  
+- **[Food Order Platform](https://foodorder-frontend-fhlh.onrender.com/)**  
+  ![Food Order Platform](https://img.shields.io/badge/Visit-Food_Order_Platform-green?style=for-the-badge&logo=foodpanda&logoColor=white)  
   Developed a platform where users can order food from various restaurants.  
   **Features:** Authentication | Search | Sorting | Filtering | Pagination | Cart Management | Stripe Checkout
 
-- **[Proshop Ecommerce](#)**  
-  *(ReactJS, Redux-Toolkit, MongoDB, ExpressJS, NodeJS, Firebase, Tailwind CSS)*  
+- **[Proshop Ecommerce](https://ecommerce-mern-stack-i8u9.onrender.com)**  
+  ![Proshop Ecommerce](https://img.shields.io/badge/Visit-Proshop_Ecommerce-blue?style=for-the-badge&logo=shopify&logoColor=white)  
   Built an e-commerce website where users can buy products.  
   **Features:** Authentication | Admin Functionality | Search | Profile Management | Pagination | Cart Management | PayPal Checkout
 
