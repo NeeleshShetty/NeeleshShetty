@@ -1,14 +1,11 @@
-# 👋 Hi there! I'm [Neelesh B Shetty]
+# 👋 Hi there! I'm **Neelesh B Shetty**
 
-I'm an aspiring web developer dedicated to crafting outstanding user experiences. I specialize in both frontend and backend technologies, with a strong proficiency in **JavaScript, ReactJS, Redux,** and frontend frameworks like **Tailwind CSS**. My backend skills include **NodeJS, ExpressJS, Firebase,** and **MongoDB**, enabling me to build robust, scalable applications.
+**Aspiring Web Developer** with expertise in **JavaScript, ReactJS, Redux,** and **NodeJS**. Proficient in building scalable applications using **MongoDB, ExpressJS,** and **Tailwind CSS**. Experienced with **Git, Postman API,** and **Agile methodologies**. Passionate about creating innovative and impactful solutions.
 
-I’m also experienced with developer tools such as **Git** and **Postman API** for seamless workflows. With my background in **Agile methodologies** and **Jira**, I thrive in dynamic, team-oriented environments. My strong communication and problem-solving skills are at the heart of my commitment to delivering high-quality, innovative solutions.
 
 ---
 
 ## 🛠 Skills
-
-- ## 🛠 Skills
 
 - **Languages:**
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -30,39 +27,12 @@ I’m also experienced with developer tools such as **Git** and **Postman API** 
 - **Soft Skills:** Excellent Communication | Team Player | Critical Thinking | Hardworking | Problem Solving
 
 
----
 
-## 🎓 Education
-
-- **B.E in Electronics and Communication**  
-  NMAM Institute of Technology, Udupi, Karnataka (2018 - 2022)  
-  CGPA: 7.4
-
-- **P.U.C**  
-  Shamili INDP PU College, Udupi, Karnataka (2016 - 2018)  
-  Percentage: 95%
-
-- **10th Grade**  
-  Shanthinikethan EMHS, Udupi, Karnataka (2015 - 2016)  
-  Percentage: 92.5%
 
 ---
 
-## 💼 Experience
 
-**Programmer Analyst**  
-*Cognizant Technology Solutions Ltd., Bangalore, Karnataka*  
-*Oct 2022 – Present*
-
-- Built scalable and maintainable applications using ReactJS with Redux-Toolkit.
-- Collaborated with the UI design team to implement changes and introduce new features, enhancing user interaction.
-- Authored clean, efficient code, driving technical design, and assuming end-to-end responsibility for technical delivery.
-- Debugged P2, P3-level bugs and provided technical support to clients and internal teams.
-- Engaged in ongoing learning, attending training sessions, workshops, and certifications to stay updated with technological advancements.
-
----
-
-## 🚀 Projects
+## 🚀 Some of the major Projects
 
 - **[Food Order Platform](#)**  
   *(ReactJS, TypeScript, MongoDB, NodeJS, Tailwind CSS, Shadcn)*  
@@ -78,14 +48,17 @@ I’m also experienced with developer tools such as **Git** and **Postman API** 
 
 ## 📜 Certifications
 
-- **Full Stack Web Development**  
-  Coding Ninjas (Feb 2023 – Feb 2024)
+- **Full Stack Web Development - Coding Ninjas** (Feb 2023 - Feb 2024)
 
----
+  [![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://certificate.codingninjas.com/view/0e3e7ffaf08a011a)
+  [![Frontend](https://img.shields.io/badge/Frontend-FB542B?style=for-the-badge&logo=html5&logoColor=white)](https://certificate.codingninjas.com/view/d6fe62c455cfdafc)
+  [![Backend](https://img.shields.io/badge/Backend-007ACC?style=for-the-badge&logo=node.js&logoColor=white)](https://certificate.codingninjas.com/view/435e1297406d871a)
+ ---
+
 
 ## 📫 How to reach me
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelshetty-26n2000/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelshetty262000@example.com)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeeleshShetty&show_icons=true&theme=radical)
