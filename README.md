@@ -38,7 +38,8 @@
   ![Proshop Ecommerce](https://img.shields.io/badge/Visit-Proshop_Ecommerce-blue?style=for-the-badge&logo=shopify&logoColor=white)  
   Built an e-commerce website where users can buy products.  
   **Features:** Authentication | Admin Functionality | Search | Profile Management | Pagination | Cart Management | PayPal Checkout
-
+  
+- **[Lot more to come ... ]**
 ---
 
 ## 📜 Certifications
